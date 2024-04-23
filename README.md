@@ -6,7 +6,7 @@ In this tutorial I'm learning the basic React JS to advance. Here I'm going to a
 
 ## Tutorial Video
 
-You can follow along with this tutorial series on YouTube. Check out the e [tutorial video](https://youtu.be/cd3P3yXyx30) to get started.
+You can follow along with this tutorial series on YouTube. Check out the [tutorial video](https://youtu.be/cd3P3yXyx30) to get started.
 
 ## Additional Tips
 
