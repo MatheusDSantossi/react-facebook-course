@@ -48,5 +48,3 @@ function Root() {
 }
 
 export default Root;
-
-// https://youtu.be/cd3P3yXyx30?t=14012
