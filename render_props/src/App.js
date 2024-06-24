@@ -44,13 +44,3 @@ function App() {
 }
 
 export default App;
-
-// https://youtu.be/cd3P3yXyx30?t=19714
-
-// learning about cross-cutting 
-//concerns in applicatons, components 
-//and reusing behavior. Plus the 
-//patterns for common functionality 
-// in React
-
-
